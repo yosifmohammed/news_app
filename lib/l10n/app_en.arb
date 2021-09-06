@@ -1,0 +1,12 @@
+{
+  "newsApp" : "News",
+  "business" : "Business",
+  "sport" : "Sport",
+  "science" : "Science",
+  "setting" : "Setting",
+  "darkMode" : "Dark Mode",
+  "on" : "ON",
+  "off" : "OFF",
+  "language" : "Arabic translation",
+  "search" : "Search..."
+}
